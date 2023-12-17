@@ -14,7 +14,7 @@ def show_logo() -> None:
     Returns:
         None
     """
-    logo = """   _,.-------.,_
+    logo = """       _,.-------.,_
              ,;~'             '~;,
            ,;                     ;,
           ;                         ;
